@@ -1,2 +1,3 @@
-# simple-video-control
-Extremely simple video control created using JavaScript, CSS &amp; HTML.
+# Simple Video Control
+
+Contains a button to pause/play the video.
